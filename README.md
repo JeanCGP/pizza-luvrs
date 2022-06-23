@@ -1,6 +1,8 @@
 ## Demo Project for AWS Developer: Getting Started
 
 This repository contains the demo project for the [AWS Developer: Getting Started course on Pluralsight.com](http://www.pluralsight.com/courses/aws-developer-getting-started).
+npm install 
+npm start 
 
 ## Project Explanation
 
